@@ -1,6 +1,6 @@
 # 🌱 Intelligent Greenhouse Management System 🌱
 
-Welcome to the Intelligent Greenhouse Management System repository! This project, developed by students at the National University "Lviv Polytechnic", showcases an embedded system designed to automate and optimize greenhouse environments. Using the powerful ESP32 microcontroller, our system monitors temperature, humidity, and light levels, and automatically adjusts conditions to ensure optimal plant growth.
+Welcome to the Intelligent Greenhouse Management System repository! This project, developed by team of students at the National University "Lviv Polytechnic", showcases an embedded system designed to automate and optimize greenhouse environments. Using the powerful ESP32 microcontroller, our system monitors temperature, humidity, and light levels, and automatically adjusts conditions to ensure optimal plant growth.
 
 ## 🚀 Key Features
 - **Real-time Monitoring:** Track environmental conditions with precision using DHT22 and TSL2561 sensors.
